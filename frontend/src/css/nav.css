@@ -1,0 +1,26 @@
+.me-auto {
+    color:white;
+   
+      
+   }
+   
+   .input{
+       text-align: center;
+       margin-top: 20px;
+      
+      
+      
+   }
+   button{
+       text-align: center;
+       margin-top: 10px;
+       margin-left: 20px;
+   }
+   button:hover{
+       border: 2px solid green;
+       background-color: rgb(9, 82, 170);
+   }
+   
+   input{
+       width: 300px;
+   }
